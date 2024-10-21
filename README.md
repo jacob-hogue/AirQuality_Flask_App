@@ -1,5 +1,6 @@
 # AirQuality_Flask_App
-
+Inspiration and reference taken from: Parinda Pannoon
+https://github.com/parindapannoon/PostGIS_FetchdataAPI
 ## Requirements
 ```
 Flask==3.0.3   
