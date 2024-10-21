@@ -1,0 +1,2009 @@
+[
+    {
+        "meta": {
+            "name": "openaq-api",
+            "website": "/",
+            "page": 1,
+            "limit": 10,
+            "found": 9
+        },
+        "results": [
+            {
+                "value": 13.0,
+                "parameter": {
+                    "id": 2,
+                    "name": "pm25",
+                    "units": "\u00b5g/m\u00b3",
+                    "displayName": null
+                },
+                "period": {
+                    "label": "1 year",
+                    "interval": "1year",
+                    "datetimeFrom": {
+                        "utc": "2016-01-01T08:00:00Z",
+                        "local": "2016-01-01T00:00:00-08:00"
+                    },
+                    "datetimeTo": {
+                        "utc": "2017-01-01T08:00:00Z",
+                        "local": "2017-01-01T00:00:00-08:00"
+                    }
+                },
+                "coordinates": null,
+                "summary": {
+                    "min": 1.0666667222976685,
+                    "q02": 2.191499991416931,
+                    "q25": 6.316666841506958,
+                    "median": 9.665217399597168,
+                    "q75": 15.782875537872314,
+                    "q98": 42.71543121337891,
+                    "max": 53.50833511352539,
+                    "avg": 12.742225181566527,
+                    "sd": 9.852975832526992
+                },
+                "coverage": {
+                    "expectedCount": 366,
+                    "expectedInterval": "8784:00:00",
+                    "observedCount": 292,
+                    "observedInterval": "7008:00:00",
+                    "percentComplete": 80.0,
+                    "percentCoverage": 80.0,
+                    "datetimeFrom": {
+                        "utc": "2016-03-06T08:00:00Z",
+                        "local": "2016-03-06T00:00:00-08:00"
+                    },
+                    "datetimeTo": {
+                        "utc": "2017-01-01T08:00:00Z",
+                        "local": "2017-01-01T00:00:00-08:00"
+                    }
+                }
+            },
+            {
+                "value": 15.0,
+                "parameter": {
+                    "id": 2,
+                    "name": "pm25",
+                    "units": "\u00b5g/m\u00b3",
+                    "displayName": null
+                },
+                "period": {
+                    "label": "1 year",
+                    "interval": "1year",
+                    "datetimeFrom": {
+                        "utc": "2017-01-01T08:00:00Z",
+                        "local": "2017-01-01T00:00:00-08:00"
+                    },
+                    "datetimeTo": {
+                        "utc": "2018-01-01T08:00:00Z",
+                        "local": "2018-01-01T00:00:00-08:00"
+                    }
+                },
+                "coordinates": null,
+                "summary": {
+                    "min": 0.10000000149011612,
+                    "q02": 1.7623030185699462,
+                    "q25": 6.0428571701049805,
+                    "median": 10.289473533630371,
+                    "q75": 16.280000686645508,
+                    "q98": 62.167999572753935,
+                    "max": 87.5999984741211,
+                    "avg": 14.73014848862772,
+                    "sd": 14.129329733812662
+                },
+                "coverage": {
+                    "expectedCount": 365,
+                    "expectedInterval": "8760:00:00",
+                    "observedCount": 333,
+                    "observedInterval": "7992:00:00",
+                    "percentComplete": 91.0,
+                    "percentCoverage": 91.0,
+                    "datetimeFrom": {
+                        "utc": "2017-01-01T08:00:00Z",
+                        "local": "2017-01-01T00:00:00-08:00"
+                    },
+                    "datetimeTo": {
+                        "utc": "2018-01-01T08:00:00Z",
+                        "local": "2018-01-01T00:00:00-08:00"
+                    }
+                }
+            },
+            {
+                "value": 16.0,
+                "parameter": {
+                    "id": 2,
+                    "name": "pm25",
+                    "units": "\u00b5g/m\u00b3",
+                    "displayName": null
+                },
+                "period": {
+                    "label": "1 year",
+                    "interval": "1year",
+                    "datetimeFrom": {
+                        "utc": "2018-01-01T08:00:00Z",
+                        "local": "2018-01-01T00:00:00-08:00"
+                    },
+                    "datetimeTo": {
+                        "utc": "2019-01-01T08:00:00Z",
+                        "local": "2019-01-01T00:00:00-08:00"
+                    }
+                },
+                "coordinates": null,
+                "summary": {
+                    "min": -0.44090908765792847,
+                    "q02": 2.6866665744781493,
+                    "q25": 7.659999847412109,
+                    "median": 11.335714340209961,
+                    "q75": 18.819047927856445,
+                    "q98": 61.479699096679795,
+                    "max": 89.3375015258789,
+                    "avg": 16.11344044179493,
+                    "sd": 14.194367997712636
+                },
+                "coverage": {
+                    "expectedCount": 365,
+                    "expectedInterval": "8760:00:00",
+                    "observedCount": 349,
+                    "observedInterval": "8376:00:00",
+                    "percentComplete": 96.0,
+                    "percentCoverage": 96.0,
+                    "datetimeFrom": {
+                        "utc": "2018-01-01T08:00:00Z",
+                        "local": "2018-01-01T00:00:00-08:00"
+                    },
+                    "datetimeTo": {
+                        "utc": "2019-01-01T08:00:00Z",
+                        "local": "2019-01-01T00:00:00-08:00"
+                    }
+                }
+            },
+            {
+                "value": 11.0,
+                "parameter": {
+                    "id": 2,
+                    "name": "pm25",
+                    "units": "\u00b5g/m\u00b3",
+                    "displayName": null
+                },
+                "period": {
+                    "label": "1 year",
+                    "interval": "1year",
+                    "datetimeFrom": {
+                        "utc": "2019-01-01T08:00:00Z",
+                        "local": "2019-01-01T00:00:00-08:00"
+                    },
+                    "datetimeTo": {
+                        "utc": "2020-01-01T08:00:00Z",
+                        "local": "2020-01-01T00:00:00-08:00"
+                    }
+                },
+                "coordinates": null,
+                "summary": {
+                    "min": 1.0,
+                    "q02": 2.1865455150604247,
+                    "q25": 5.444444298744202,
+                    "median": 8.811232089996338,
+                    "q75": 12.296739339828491,
+                    "q98": 31.539510650634774,
+                    "max": 47.099998474121094,
+                    "avg": 10.562832809084064,
+                    "sd": 7.383070905379575
+                },
+                "coverage": {
+                    "expectedCount": 365,
+                    "expectedInterval": "8760:00:00",
+                    "observedCount": 364,
+                    "observedInterval": "8736:00:00",
+                    "percentComplete": 100.0,
+                    "percentCoverage": 100.0,
+                    "datetimeFrom": {
+                        "utc": "2019-01-01T08:00:00Z",
+                        "local": "2019-01-01T00:00:00-08:00"
+                    },
+                    "datetimeTo": {
+                        "utc": "2020-01-01T08:00:00Z",
+                        "local": "2020-01-01T00:00:00-08:00"
+                    }
+                }
+            },
+            {
+                "value": 18.0,
+                "parameter": {
+                    "id": 2,
+                    "name": "pm25",
+                    "units": "\u00b5g/m\u00b3",
+                    "displayName": null
+                },
+                "period": {
+                    "label": "1 year",
+                    "interval": "1year",
+                    "datetimeFrom": {
+                        "utc": "2020-01-01T08:00:00Z",
+                        "local": "2020-01-01T00:00:00-08:00"
+                    },
+                    "datetimeTo": {
+                        "utc": "2021-01-01T08:00:00Z",
+                        "local": "2021-01-01T00:00:00-08:00"
+                    }
+                },
+                "coordinates": null,
+                "summary": {
+                    "min": 0.925000011920929,
+                    "q02": 2.5069999933242797,
+                    "q25": 6.431210994720459,
+                    "median": 11.697647094726562,
+                    "q75": 23.5503830909729,
+                    "q98": 86.09266921997074,
+                    "max": 178.30624389648438,
+                    "avg": 18.415775419114023,
+                    "sd": 20.589218282415263
+                },
+                "coverage": {
+                    "expectedCount": 366,
+                    "expectedInterval": "8784:00:00",
+                    "observedCount": 358,
+                    "observedInterval": "8592:00:00",
+                    "percentComplete": 98.0,
+                    "percentCoverage": 98.0,
+                    "datetimeFrom": {
+                        "utc": "2020-01-01T08:00:00Z",
+                        "local": "2020-01-01T00:00:00-08:00"
+                    },
+                    "datetimeTo": {
+                        "utc": "2021-01-01T08:00:00Z",
+                        "local": "2021-01-01T00:00:00-08:00"
+                    }
+                }
+            },
+            {
+                "value": 16.0,
+                "parameter": {
+                    "id": 2,
+                    "name": "pm25",
+                    "units": "\u00b5g/m\u00b3",
+                    "displayName": null
+                },
+                "period": {
+                    "label": "1 year",
+                    "interval": "1year",
+                    "datetimeFrom": {
+                        "utc": "2021-01-01T08:00:00Z",
+                        "local": "2021-01-01T00:00:00-08:00"
+                    },
+                    "datetimeTo": {
+                        "utc": "2022-01-01T08:00:00Z",
+                        "local": "2022-01-01T00:00:00-08:00"
+                    }
+                },
+                "coordinates": null,
+                "summary": {
+                    "min": 2.1222221851348877,
+                    "q02": 3.6131428527832026,
+                    "q25": 8.13939380645752,
+                    "median": 11.5,
+                    "q75": 19.034979994400686,
+                    "q98": 54.02672515869132,
+                    "max": 102.60909090909094,
+                    "avg": 16.161002161815283,
+                    "sd": 13.047251546250163
+                },
+                "coverage": {
+                    "expectedCount": 365,
+                    "expectedInterval": "8760:00:00",
+                    "observedCount": 343,
+                    "observedInterval": "8232:00:00",
+                    "percentComplete": 94.0,
+                    "percentCoverage": 94.0,
+                    "datetimeFrom": {
+                        "utc": "2021-01-01T08:00:00Z",
+                        "local": "2021-01-01T00:00:00-08:00"
+                    },
+                    "datetimeTo": {
+                        "utc": "2022-01-01T08:00:00Z",
+                        "local": "2022-01-01T00:00:00-08:00"
+                    }
+                }
+            },
+            {
+                "value": 13.0,
+                "parameter": {
+                    "id": 2,
+                    "name": "pm25",
+                    "units": "\u00b5g/m\u00b3",
+                    "displayName": null
+                },
+                "period": {
+                    "label": "1 year",
+                    "interval": "1year",
+                    "datetimeFrom": {
+                        "utc": "2022-01-01T08:00:00Z",
+                        "local": "2022-01-01T00:00:00-08:00"
+                    },
+                    "datetimeTo": {
+                        "utc": "2023-01-01T08:00:00Z",
+                        "local": "2023-01-01T00:00:00-08:00"
+                    }
+                },
+                "coordinates": null,
+                "summary": {
+                    "min": 1.2083333730697632,
+                    "q02": 2.269166684150696,
+                    "q25": 6.158016324043274,
+                    "median": 10.470714569091797,
+                    "q75": 18.56666660308838,
+                    "q98": 39.98857116699217,
+                    "max": 60.157142639160156,
+                    "avg": 13.169520381213612,
+                    "sd": 9.520517297053685
+                },
+                "coverage": {
+                    "expectedCount": 365,
+                    "expectedInterval": "8760:00:00",
+                    "observedCount": 346,
+                    "observedInterval": "8304:00:00",
+                    "percentComplete": 95.0,
+                    "percentCoverage": 95.0,
+                    "datetimeFrom": {
+                        "utc": "2022-01-01T08:00:00Z",
+                        "local": "2022-01-01T00:00:00-08:00"
+                    },
+                    "datetimeTo": {
+                        "utc": "2023-01-01T08:00:00Z",
+                        "local": "2023-01-01T00:00:00-08:00"
+                    }
+                }
+            },
+            {
+                "value": 11.0,
+                "parameter": {
+                    "id": 2,
+                    "name": "pm25",
+                    "units": "\u00b5g/m\u00b3",
+                    "displayName": null
+                },
+                "period": {
+                    "label": "1 year",
+                    "interval": "1year",
+                    "datetimeFrom": {
+                        "utc": "2023-01-01T08:00:00Z",
+                        "local": "2023-01-01T00:00:00-08:00"
+                    },
+                    "datetimeTo": {
+                        "utc": "2024-01-01T08:00:00Z",
+                        "local": "2024-01-01T00:00:00-08:00"
+                    }
+                },
+                "coordinates": null,
+                "summary": {
+                    "min": 0.5666666666666667,
+                    "q02": 1.5801521739130435,
+                    "q25": 5.468939415613811,
+                    "median": 8.566666666666666,
+                    "q75": 13.331340579710147,
+                    "q98": 32.97233333333332,
+                    "max": 39.16666666666667,
+                    "avg": 10.792331762872422,
+                    "sd": 7.8633695911711925
+                },
+                "coverage": {
+                    "expectedCount": 365,
+                    "expectedInterval": "8760:00:00",
+                    "observedCount": 319,
+                    "observedInterval": "7656:00:00",
+                    "percentComplete": 87.0,
+                    "percentCoverage": 87.0,
+                    "datetimeFrom": {
+                        "utc": "2023-01-01T08:00:00Z",
+                        "local": "2023-01-01T00:00:00-08:00"
+                    },
+                    "datetimeTo": {
+                        "utc": "2024-01-01T08:00:00Z",
+                        "local": "2024-01-01T00:00:00-08:00"
+                    }
+                }
+            },
+            {
+                "value": 8.6,
+                "parameter": {
+                    "id": 2,
+                    "name": "pm25",
+                    "units": "\u00b5g/m\u00b3",
+                    "displayName": null
+                },
+                "period": {
+                    "label": "1 year",
+                    "interval": "1year",
+                    "datetimeFrom": {
+                        "utc": "2024-01-01T08:00:00Z",
+                        "local": "2024-01-01T00:00:00-08:00"
+                    },
+                    "datetimeTo": {
+                        "utc": "2025-01-01T08:00:00Z",
+                        "local": "2025-01-01T00:00:00-08:00"
+                    }
+                },
+                "coordinates": null,
+                "summary": {
+                    "min": 1.3590909090909091,
+                    "q02": 1.907,
+                    "q25": 5.268844696969697,
+                    "median": 7.845833333333332,
+                    "q75": 11.311458333333333,
+                    "q98": 19.70714130434781,
+                    "max": 25.743478260869573,
+                    "avg": 8.608255125561348,
+                    "sd": 4.4776692267330835
+                },
+                "coverage": {
+                    "expectedCount": 366,
+                    "expectedInterval": "8784:00:00",
+                    "observedCount": 290,
+                    "observedInterval": "6960:00:00",
+                    "percentComplete": 79.0,
+                    "percentCoverage": 79.0,
+                    "datetimeFrom": {
+                        "utc": "2024-01-01T08:00:00Z",
+                        "local": "2024-01-01T00:00:00-08:00"
+                    },
+                    "datetimeTo": {
+                        "utc": "2024-10-17T07:00:00Z",
+                        "local": "2024-10-17T00:00:00-07:00"
+                    }
+                }
+            }
+        ],
+        "sensor_id": 1639
+    },
+    {
+        "meta": {
+            "name": "openaq-api",
+            "website": "/",
+            "page": 1,
+            "limit": 10,
+            "found": 7
+        },
+        "results": [
+            {
+                "value": 16.0,
+                "parameter": {
+                    "id": 2,
+                    "name": "pm25",
+                    "units": "\u00b5g/m\u00b3",
+                    "displayName": null
+                },
+                "period": {
+                    "label": "1 year",
+                    "interval": "1year",
+                    "datetimeFrom": {
+                        "utc": "2016-01-01T08:00:00Z",
+                        "local": "2016-01-01T00:00:00-08:00"
+                    },
+                    "datetimeTo": {
+                        "utc": "2017-01-01T08:00:00Z",
+                        "local": "2017-01-01T00:00:00-08:00"
+                    }
+                },
+                "coordinates": null,
+                "summary": {
+                    "min": 6.75,
+                    "q02": 6.805,
+                    "q25": 8.75,
+                    "median": 17.25,
+                    "q75": 21.875,
+                    "q98": 23.853333473205566,
+                    "max": 24.0,
+                    "avg": 15.840277830759684,
+                    "sd": 6.779207201210798
+                },
+                "coverage": {
+                    "expectedCount": 366,
+                    "expectedInterval": "8784:00:00",
+                    "observedCount": 12,
+                    "observedInterval": "288:00:00",
+                    "percentComplete": 3.0,
+                    "percentCoverage": 3.0,
+                    "datetimeFrom": {
+                        "utc": "2016-08-29T07:00:00Z",
+                        "local": "2016-08-29T00:00:00-07:00"
+                    },
+                    "datetimeTo": {
+                        "utc": "2016-11-04T07:00:00Z",
+                        "local": "2016-11-04T00:00:00-07:00"
+                    }
+                }
+            },
+            {
+                "value": 16.0,
+                "parameter": {
+                    "id": 2,
+                    "name": "pm25",
+                    "units": "\u00b5g/m\u00b3",
+                    "displayName": null
+                },
+                "period": {
+                    "label": "1 year",
+                    "interval": "1year",
+                    "datetimeFrom": {
+                        "utc": "2017-01-01T08:00:00Z",
+                        "local": "2017-01-01T00:00:00-08:00"
+                    },
+                    "datetimeTo": {
+                        "utc": "2018-01-01T08:00:00Z",
+                        "local": "2018-01-01T00:00:00-08:00"
+                    }
+                },
+                "coordinates": null,
+                "summary": {
+                    "min": 3.0,
+                    "q02": 3.926666736602783,
+                    "q25": 7.719696998596191,
+                    "median": 12.681818008422852,
+                    "q75": 19.2619047164917,
+                    "q98": 52.75999999999999,
+                    "max": 80.0,
+                    "avg": 15.99348853636479,
+                    "sd": 12.489275260915676
+                },
+                "coverage": {
+                    "expectedCount": 365,
+                    "expectedInterval": "8760:00:00",
+                    "observedCount": 207,
+                    "observedInterval": "4968:00:00",
+                    "percentComplete": 57.0,
+                    "percentCoverage": 57.0,
+                    "datetimeFrom": {
+                        "utc": "2017-01-26T08:00:00Z",
+                        "local": "2017-01-26T00:00:00-08:00"
+                    },
+                    "datetimeTo": {
+                        "utc": "2017-12-14T08:00:00Z",
+                        "local": "2017-12-14T00:00:00-08:00"
+                    }
+                }
+            },
+            {
+                "value": 34.0,
+                "parameter": {
+                    "id": 2,
+                    "name": "pm25",
+                    "units": "\u00b5g/m\u00b3",
+                    "displayName": null
+                },
+                "period": {
+                    "label": "1 year",
+                    "interval": "1year",
+                    "datetimeFrom": {
+                        "utc": "2020-01-01T08:00:00Z",
+                        "local": "2020-01-01T00:00:00-08:00"
+                    },
+                    "datetimeTo": {
+                        "utc": "2021-01-01T08:00:00Z",
+                        "local": "2021-01-01T00:00:00-08:00"
+                    }
+                },
+                "coordinates": null,
+                "summary": {
+                    "min": 3.6666667461395264,
+                    "q02": 5.554000129699707,
+                    "q25": 18.5,
+                    "median": 27.9375,
+                    "q75": 41.11111068725586,
+                    "q98": 112.59200286865219,
+                    "max": 121.9000015258789,
+                    "avg": 33.87712089101175,
+                    "sd": 24.47862931877094
+                },
+                "coverage": {
+                    "expectedCount": 366,
+                    "expectedInterval": "8784:00:00",
+                    "observedCount": 133,
+                    "observedInterval": "3192:00:00",
+                    "percentComplete": 36.0,
+                    "percentCoverage": 36.0,
+                    "datetimeFrom": {
+                        "utc": "2020-08-20T07:00:00Z",
+                        "local": "2020-08-20T00:00:00-07:00"
+                    },
+                    "datetimeTo": {
+                        "utc": "2021-01-01T08:00:00Z",
+                        "local": "2021-01-01T00:00:00-08:00"
+                    }
+                }
+            },
+            {
+                "value": 16.0,
+                "parameter": {
+                    "id": 2,
+                    "name": "pm25",
+                    "units": "\u00b5g/m\u00b3",
+                    "displayName": null
+                },
+                "period": {
+                    "label": "1 year",
+                    "interval": "1year",
+                    "datetimeFrom": {
+                        "utc": "2021-01-01T08:00:00Z",
+                        "local": "2021-01-01T00:00:00-08:00"
+                    },
+                    "datetimeTo": {
+                        "utc": "2022-01-01T08:00:00Z",
+                        "local": "2022-01-01T00:00:00-08:00"
+                    }
+                },
+                "coordinates": null,
+                "summary": {
+                    "min": -0.23529411852359772,
+                    "q02": 2.2760000801086426,
+                    "q25": 7.666666507720947,
+                    "median": 11.449999809265137,
+                    "q75": 19.02083396911621,
+                    "q98": 53.50245651245106,
+                    "max": 81.0,
+                    "avg": 15.85223910280694,
+                    "sd": 13.11891335586955
+                },
+                "coverage": {
+                    "expectedCount": 365,
+                    "expectedInterval": "8760:00:00",
+                    "observedCount": 343,
+                    "observedInterval": "8232:00:00",
+                    "percentComplete": 94.0,
+                    "percentCoverage": 94.0,
+                    "datetimeFrom": {
+                        "utc": "2021-01-01T08:00:00Z",
+                        "local": "2021-01-01T00:00:00-08:00"
+                    },
+                    "datetimeTo": {
+                        "utc": "2022-01-01T08:00:00Z",
+                        "local": "2022-01-01T00:00:00-08:00"
+                    }
+                }
+            },
+            {
+                "value": 14.0,
+                "parameter": {
+                    "id": 2,
+                    "name": "pm25",
+                    "units": "\u00b5g/m\u00b3",
+                    "displayName": null
+                },
+                "period": {
+                    "label": "1 year",
+                    "interval": "1year",
+                    "datetimeFrom": {
+                        "utc": "2022-01-01T08:00:00Z",
+                        "local": "2022-01-01T00:00:00-08:00"
+                    },
+                    "datetimeTo": {
+                        "utc": "2023-01-01T08:00:00Z",
+                        "local": "2023-01-01T00:00:00-08:00"
+                    }
+                },
+                "coordinates": null,
+                "summary": {
+                    "min": 0.4583333432674408,
+                    "q02": 1.4206521463394166,
+                    "q25": 6.125,
+                    "median": 10.550000190734863,
+                    "q75": 19.281249523162842,
+                    "q98": 43.32630577087402,
+                    "max": 62.91666793823242,
+                    "avg": 14.234556956762109,
+                    "sd": 11.432868850717052
+                },
+                "coverage": {
+                    "expectedCount": 365,
+                    "expectedInterval": "8760:00:00",
+                    "observedCount": 362,
+                    "observedInterval": "8688:00:00",
+                    "percentComplete": 99.0,
+                    "percentCoverage": 99.0,
+                    "datetimeFrom": {
+                        "utc": "2022-01-01T08:00:00Z",
+                        "local": "2022-01-01T00:00:00-08:00"
+                    },
+                    "datetimeTo": {
+                        "utc": "2023-01-01T08:00:00Z",
+                        "local": "2023-01-01T00:00:00-08:00"
+                    }
+                }
+            },
+            {
+                "value": 13.0,
+                "parameter": {
+                    "id": 2,
+                    "name": "pm25",
+                    "units": "\u00b5g/m\u00b3",
+                    "displayName": null
+                },
+                "period": {
+                    "label": "1 year",
+                    "interval": "1year",
+                    "datetimeFrom": {
+                        "utc": "2023-01-01T08:00:00Z",
+                        "local": "2023-01-01T00:00:00-08:00"
+                    },
+                    "datetimeTo": {
+                        "utc": "2024-01-01T08:00:00Z",
+                        "local": "2024-01-01T00:00:00-08:00"
+                    }
+                },
+                "coordinates": null,
+                "summary": {
+                    "min": 1.0833333333333333,
+                    "q02": 2.4175,
+                    "q25": 6.948369565217392,
+                    "median": 10.125,
+                    "q75": 15.125,
+                    "q98": 38.05916666666662,
+                    "max": 53.78260869565217,
+                    "avg": 12.730838419189718,
+                    "sd": 8.926370440968485
+                },
+                "coverage": {
+                    "expectedCount": 365,
+                    "expectedInterval": "8760:00:00",
+                    "observedCount": 318,
+                    "observedInterval": "7632:00:00",
+                    "percentComplete": 87.0,
+                    "percentCoverage": 87.0,
+                    "datetimeFrom": {
+                        "utc": "2023-01-01T08:00:00Z",
+                        "local": "2023-01-01T00:00:00-08:00"
+                    },
+                    "datetimeTo": {
+                        "utc": "2024-01-01T08:00:00Z",
+                        "local": "2024-01-01T00:00:00-08:00"
+                    }
+                }
+            },
+            {
+                "value": 10.0,
+                "parameter": {
+                    "id": 2,
+                    "name": "pm25",
+                    "units": "\u00b5g/m\u00b3",
+                    "displayName": null
+                },
+                "period": {
+                    "label": "1 year",
+                    "interval": "1year",
+                    "datetimeFrom": {
+                        "utc": "2024-01-01T08:00:00Z",
+                        "local": "2024-01-01T00:00:00-08:00"
+                    },
+                    "datetimeTo": {
+                        "utc": "2025-01-01T08:00:00Z",
+                        "local": "2025-01-01T00:00:00-08:00"
+                    }
+                },
+                "coordinates": null,
+                "summary": {
+                    "min": 1.3,
+                    "q02": 1.7130434782608697,
+                    "q25": 6.5,
+                    "median": 9.208333333333334,
+                    "q75": 12.833333333333334,
+                    "q98": 24.291666666666632,
+                    "max": 28.391304347826086,
+                    "avg": 10.016212036505358,
+                    "sd": 5.153462043584505
+                },
+                "coverage": {
+                    "expectedCount": 366,
+                    "expectedInterval": "8784:00:00",
+                    "observedCount": 281,
+                    "observedInterval": "6744:00:00",
+                    "percentComplete": 77.0,
+                    "percentCoverage": 77.0,
+                    "datetimeFrom": {
+                        "utc": "2024-01-01T08:00:00Z",
+                        "local": "2024-01-01T00:00:00-08:00"
+                    },
+                    "datetimeTo": {
+                        "utc": "2024-10-17T07:00:00Z",
+                        "local": "2024-10-17T00:00:00-07:00"
+                    }
+                }
+            }
+        ],
+        "sensor_id": 24365
+    },
+    {
+        "meta": {
+            "name": "openaq-api",
+            "website": "/",
+            "page": 1,
+            "limit": 10,
+            "found": 9
+        },
+        "results": [
+            {
+                "value": 11.0,
+                "parameter": {
+                    "id": 2,
+                    "name": "pm25",
+                    "units": "\u00b5g/m\u00b3",
+                    "displayName": null
+                },
+                "period": {
+                    "label": "1 year",
+                    "interval": "1year",
+                    "datetimeFrom": {
+                        "utc": "2016-01-01T08:00:00Z",
+                        "local": "2016-01-01T00:00:00-08:00"
+                    },
+                    "datetimeTo": {
+                        "utc": "2017-01-01T08:00:00Z",
+                        "local": "2017-01-01T00:00:00-08:00"
+                    }
+                },
+                "coordinates": null,
+                "summary": {
+                    "min": -2.0,
+                    "q02": -0.8,
+                    "q25": 7.125,
+                    "median": 12.0,
+                    "q75": 16.0,
+                    "q98": 23.049999999999997,
+                    "max": 23.5,
+                    "avg": 11.39583332836628,
+                    "sd": 7.2254373252055935
+                },
+                "coverage": {
+                    "expectedCount": 366,
+                    "expectedInterval": "8784:00:00",
+                    "observedCount": 16,
+                    "observedInterval": "384:00:00",
+                    "percentComplete": 4.0,
+                    "percentCoverage": 4.0,
+                    "datetimeFrom": {
+                        "utc": "2016-08-05T07:00:00Z",
+                        "local": "2016-08-05T00:00:00-07:00"
+                    },
+                    "datetimeTo": {
+                        "utc": "2016-11-04T07:00:00Z",
+                        "local": "2016-11-04T00:00:00-07:00"
+                    }
+                }
+            },
+            {
+                "value": 12.0,
+                "parameter": {
+                    "id": 2,
+                    "name": "pm25",
+                    "units": "\u00b5g/m\u00b3",
+                    "displayName": null
+                },
+                "period": {
+                    "label": "1 year",
+                    "interval": "1year",
+                    "datetimeFrom": {
+                        "utc": "2017-01-01T08:00:00Z",
+                        "local": "2017-01-01T00:00:00-08:00"
+                    },
+                    "datetimeTo": {
+                        "utc": "2018-01-01T08:00:00Z",
+                        "local": "2018-01-01T00:00:00-08:00"
+                    }
+                },
+                "coordinates": null,
+                "summary": {
+                    "min": 1.0,
+                    "q02": 1.454545497894287,
+                    "q25": 5.695652008056641,
+                    "median": 8.541666984558105,
+                    "q75": 14.69565200805664,
+                    "q98": 38.0,
+                    "max": 56.0,
+                    "avg": 11.58395127751934,
+                    "sd": 9.01755478616096
+                },
+                "coverage": {
+                    "expectedCount": 365,
+                    "expectedInterval": "8760:00:00",
+                    "observedCount": 201,
+                    "observedInterval": "4824:00:00",
+                    "percentComplete": 55.0,
+                    "percentCoverage": 55.0,
+                    "datetimeFrom": {
+                        "utc": "2017-01-26T08:00:00Z",
+                        "local": "2017-01-26T00:00:00-08:00"
+                    },
+                    "datetimeTo": {
+                        "utc": "2017-12-11T08:00:00Z",
+                        "local": "2017-12-11T00:00:00-08:00"
+                    }
+                }
+            },
+            {
+                "value": 14.0,
+                "parameter": {
+                    "id": 2,
+                    "name": "pm25",
+                    "units": "\u00b5g/m\u00b3",
+                    "displayName": null
+                },
+                "period": {
+                    "label": "1 year",
+                    "interval": "1year",
+                    "datetimeFrom": {
+                        "utc": "2018-01-01T08:00:00Z",
+                        "local": "2018-01-01T00:00:00-08:00"
+                    },
+                    "datetimeTo": {
+                        "utc": "2019-01-01T08:00:00Z",
+                        "local": "2019-01-01T00:00:00-08:00"
+                    }
+                },
+                "coordinates": null,
+                "summary": {
+                    "min": 1.100000023841858,
+                    "q02": 3.405333423614502,
+                    "q25": 7.421355485916138,
+                    "median": 9.737500190734863,
+                    "q75": 15.459047794342041,
+                    "q98": 47.3960008239746,
+                    "max": 95.9000015258789,
+                    "avg": 13.70659526609907,
+                    "sd": 12.11395619312571
+                },
+                "coverage": {
+                    "expectedCount": 365,
+                    "expectedInterval": "8760:00:00",
+                    "observedCount": 255,
+                    "observedInterval": "6120:00:00",
+                    "percentComplete": 70.0,
+                    "percentCoverage": 70.0,
+                    "datetimeFrom": {
+                        "utc": "2018-03-24T07:00:00Z",
+                        "local": "2018-03-24T00:00:00-07:00"
+                    },
+                    "datetimeTo": {
+                        "utc": "2019-01-01T08:00:00Z",
+                        "local": "2019-01-01T00:00:00-08:00"
+                    }
+                }
+            },
+            {
+                "value": 8.9,
+                "parameter": {
+                    "id": 2,
+                    "name": "pm25",
+                    "units": "\u00b5g/m\u00b3",
+                    "displayName": null
+                },
+                "period": {
+                    "label": "1 year",
+                    "interval": "1year",
+                    "datetimeFrom": {
+                        "utc": "2019-01-01T08:00:00Z",
+                        "local": "2019-01-01T00:00:00-08:00"
+                    },
+                    "datetimeTo": {
+                        "utc": "2020-01-01T08:00:00Z",
+                        "local": "2020-01-01T00:00:00-08:00"
+                    }
+                },
+                "coordinates": null,
+                "summary": {
+                    "min": 1.8636363744735718,
+                    "q02": 2.7615714359283445,
+                    "q25": 5.604599714279175,
+                    "median": 8.200000286102295,
+                    "q75": 10.690760612487793,
+                    "q98": 22.69056125640869,
+                    "max": 33.22083282470703,
+                    "avg": 8.922519212575267,
+                    "sd": 4.749372220796694
+                },
+                "coverage": {
+                    "expectedCount": 365,
+                    "expectedInterval": "8760:00:00",
+                    "observedCount": 278,
+                    "observedInterval": "6672:00:00",
+                    "percentComplete": 76.0,
+                    "percentCoverage": 76.0,
+                    "datetimeFrom": {
+                        "utc": "2019-01-01T08:00:00Z",
+                        "local": "2019-01-01T00:00:00-08:00"
+                    },
+                    "datetimeTo": {
+                        "utc": "2020-01-01T08:00:00Z",
+                        "local": "2020-01-01T00:00:00-08:00"
+                    }
+                }
+            },
+            {
+                "value": 17.0,
+                "parameter": {
+                    "id": 2,
+                    "name": "pm25",
+                    "units": "\u00b5g/m\u00b3",
+                    "displayName": null
+                },
+                "period": {
+                    "label": "1 year",
+                    "interval": "1year",
+                    "datetimeFrom": {
+                        "utc": "2020-01-01T08:00:00Z",
+                        "local": "2020-01-01T00:00:00-08:00"
+                    },
+                    "datetimeTo": {
+                        "utc": "2021-01-01T08:00:00Z",
+                        "local": "2021-01-01T00:00:00-08:00"
+                    }
+                },
+                "coordinates": null,
+                "summary": {
+                    "min": 0.25,
+                    "q02": 1.5142105364799499,
+                    "q25": 6.4062498807907104,
+                    "median": 10.217262268066406,
+                    "q75": 19.258928775787354,
+                    "q98": 91.28338333129878,
+                    "max": 171.3000030517578,
+                    "avg": 16.978168160385557,
+                    "sd": 21.22023076047419
+                },
+                "coverage": {
+                    "expectedCount": 366,
+                    "expectedInterval": "8784:00:00",
+                    "observedCount": 360,
+                    "observedInterval": "8640:00:00",
+                    "percentComplete": 98.0,
+                    "percentCoverage": 98.0,
+                    "datetimeFrom": {
+                        "utc": "2020-01-01T08:00:00Z",
+                        "local": "2020-01-01T00:00:00-08:00"
+                    },
+                    "datetimeTo": {
+                        "utc": "2021-01-01T08:00:00Z",
+                        "local": "2021-01-01T00:00:00-08:00"
+                    }
+                }
+            },
+            {
+                "value": 13.0,
+                "parameter": {
+                    "id": 2,
+                    "name": "pm25",
+                    "units": "\u00b5g/m\u00b3",
+                    "displayName": null
+                },
+                "period": {
+                    "label": "1 year",
+                    "interval": "1year",
+                    "datetimeFrom": {
+                        "utc": "2021-01-01T08:00:00Z",
+                        "local": "2021-01-01T00:00:00-08:00"
+                    },
+                    "datetimeTo": {
+                        "utc": "2022-01-01T08:00:00Z",
+                        "local": "2022-01-01T00:00:00-08:00"
+                    }
+                },
+                "coordinates": null,
+                "summary": {
+                    "min": -0.6000000238418579,
+                    "q02": 1.0457142567634583,
+                    "q25": 5.519999980926514,
+                    "median": 8.916666984558105,
+                    "q75": 15.791666666666666,
+                    "q98": 48.03555587768555,
+                    "max": 97.25,
+                    "avg": 12.812367361888391,
+                    "sd": 12.155453763822532
+                },
+                "coverage": {
+                    "expectedCount": 365,
+                    "expectedInterval": "8760:00:00",
+                    "observedCount": 345,
+                    "observedInterval": "8280:00:00",
+                    "percentComplete": 95.0,
+                    "percentCoverage": 95.0,
+                    "datetimeFrom": {
+                        "utc": "2021-01-01T08:00:00Z",
+                        "local": "2021-01-01T00:00:00-08:00"
+                    },
+                    "datetimeTo": {
+                        "utc": "2022-01-01T08:00:00Z",
+                        "local": "2022-01-01T00:00:00-08:00"
+                    }
+                }
+            },
+            {
+                "value": 10.0,
+                "parameter": {
+                    "id": 2,
+                    "name": "pm25",
+                    "units": "\u00b5g/m\u00b3",
+                    "displayName": null
+                },
+                "period": {
+                    "label": "1 year",
+                    "interval": "1year",
+                    "datetimeFrom": {
+                        "utc": "2022-01-01T08:00:00Z",
+                        "local": "2022-01-01T00:00:00-08:00"
+                    },
+                    "datetimeTo": {
+                        "utc": "2023-01-01T08:00:00Z",
+                        "local": "2023-01-01T00:00:00-08:00"
+                    }
+                },
+                "coordinates": null,
+                "summary": {
+                    "min": 0.5,
+                    "q02": 2.174166717529297,
+                    "q25": 5.364583373069763,
+                    "median": 8.431677341461182,
+                    "q75": 13.260416746139526,
+                    "q98": 32.28152294158935,
+                    "max": 40.25,
+                    "avg": 10.404139823383755,
+                    "sd": 7.291512893033891
+                },
+                "coverage": {
+                    "expectedCount": 365,
+                    "expectedInterval": "8760:00:00",
+                    "observedCount": 360,
+                    "observedInterval": "8640:00:00",
+                    "percentComplete": 99.0,
+                    "percentCoverage": 99.0,
+                    "datetimeFrom": {
+                        "utc": "2022-01-01T08:00:00Z",
+                        "local": "2022-01-01T00:00:00-08:00"
+                    },
+                    "datetimeTo": {
+                        "utc": "2023-01-01T08:00:00Z",
+                        "local": "2023-01-01T00:00:00-08:00"
+                    }
+                }
+            },
+            {
+                "value": 10.0,
+                "parameter": {
+                    "id": 2,
+                    "name": "pm25",
+                    "units": "\u00b5g/m\u00b3",
+                    "displayName": null
+                },
+                "period": {
+                    "label": "1 year",
+                    "interval": "1year",
+                    "datetimeFrom": {
+                        "utc": "2023-01-01T08:00:00Z",
+                        "local": "2023-01-01T00:00:00-08:00"
+                    },
+                    "datetimeTo": {
+                        "utc": "2024-01-01T08:00:00Z",
+                        "local": "2024-01-01T00:00:00-08:00"
+                    }
+                },
+                "coordinates": null,
+                "summary": {
+                    "min": 1.1666666666666667,
+                    "q02": 2.009782608695652,
+                    "q25": 6.217391304347826,
+                    "median": 8.958333333333334,
+                    "q75": 12.75,
+                    "q98": 27.78804347826087,
+                    "max": 37.34782608695652,
+                    "avg": 10.235763333629905,
+                    "sd": 6.033416473221041
+                },
+                "coverage": {
+                    "expectedCount": 365,
+                    "expectedInterval": "8760:00:00",
+                    "observedCount": 321,
+                    "observedInterval": "7704:00:00",
+                    "percentComplete": 88.0,
+                    "percentCoverage": 88.0,
+                    "datetimeFrom": {
+                        "utc": "2023-01-01T08:00:00Z",
+                        "local": "2023-01-01T00:00:00-08:00"
+                    },
+                    "datetimeTo": {
+                        "utc": "2024-01-01T08:00:00Z",
+                        "local": "2024-01-01T00:00:00-08:00"
+                    }
+                }
+            },
+            {
+                "value": 7.8,
+                "parameter": {
+                    "id": 2,
+                    "name": "pm25",
+                    "units": "\u00b5g/m\u00b3",
+                    "displayName": null
+                },
+                "period": {
+                    "label": "1 year",
+                    "interval": "1year",
+                    "datetimeFrom": {
+                        "utc": "2024-01-01T08:00:00Z",
+                        "local": "2024-01-01T00:00:00-08:00"
+                    },
+                    "datetimeTo": {
+                        "utc": "2025-01-01T08:00:00Z",
+                        "local": "2025-01-01T00:00:00-08:00"
+                    }
+                },
+                "coordinates": null,
+                "summary": {
+                    "min": 0.9583333333333334,
+                    "q02": 1.7147826086956521,
+                    "q25": 4.957427536231884,
+                    "median": 7.375,
+                    "q75": 10.1875,
+                    "q98": 15.980362318840578,
+                    "max": 20.625,
+                    "avg": 7.798318984016664,
+                    "sd": 3.741237245721463
+                },
+                "coverage": {
+                    "expectedCount": 366,
+                    "expectedInterval": "8784:00:00",
+                    "observedCount": 287,
+                    "observedInterval": "6888:00:00",
+                    "percentComplete": 78.0,
+                    "percentCoverage": 78.0,
+                    "datetimeFrom": {
+                        "utc": "2024-01-01T08:00:00Z",
+                        "local": "2024-01-01T00:00:00-08:00"
+                    },
+                    "datetimeTo": {
+                        "utc": "2024-10-17T07:00:00Z",
+                        "local": "2024-10-17T00:00:00-07:00"
+                    }
+                }
+            }
+        ],
+        "sensor_id": 24551
+    },
+    {
+        "meta": {
+            "name": "openaq-api",
+            "website": "/",
+            "page": 1,
+            "limit": 10,
+            "found": 4
+        },
+        "results": [
+            {
+                "value": 25.0,
+                "parameter": {
+                    "id": 2,
+                    "name": "pm25",
+                    "units": "\u00b5g/m\u00b3",
+                    "displayName": null
+                },
+                "period": {
+                    "label": "1 year",
+                    "interval": "1year",
+                    "datetimeFrom": {
+                        "utc": "2021-01-01T08:00:00Z",
+                        "local": "2021-01-01T00:00:00-08:00"
+                    },
+                    "datetimeTo": {
+                        "utc": "2022-01-01T08:00:00Z",
+                        "local": "2022-01-01T00:00:00-08:00"
+                    }
+                },
+                "coordinates": null,
+                "summary": {
+                    "min": 5.0,
+                    "q02": 6.405368041992188,
+                    "q25": 12.852355003356934,
+                    "median": 19.0,
+                    "q75": 32.66787338256836,
+                    "q98": 59.67000167846673,
+                    "max": 77.04166666666667,
+                    "avg": 24.599394802904243,
+                    "sd": 15.345102421122148
+                },
+                "coverage": {
+                    "expectedCount": 365,
+                    "expectedInterval": "8760:00:00",
+                    "observedCount": 147,
+                    "observedInterval": "3528:00:00",
+                    "percentComplete": 40.0,
+                    "percentCoverage": 40.0,
+                    "datetimeFrom": {
+                        "utc": "2021-08-03T07:00:00Z",
+                        "local": "2021-08-03T00:00:00-07:00"
+                    },
+                    "datetimeTo": {
+                        "utc": "2022-01-01T08:00:00Z",
+                        "local": "2022-01-01T00:00:00-08:00"
+                    }
+                }
+            },
+            {
+                "value": 17.0,
+                "parameter": {
+                    "id": 2,
+                    "name": "pm25",
+                    "units": "\u00b5g/m\u00b3",
+                    "displayName": null
+                },
+                "period": {
+                    "label": "1 year",
+                    "interval": "1year",
+                    "datetimeFrom": {
+                        "utc": "2022-01-01T08:00:00Z",
+                        "local": "2022-01-01T00:00:00-08:00"
+                    },
+                    "datetimeTo": {
+                        "utc": "2023-01-01T08:00:00Z",
+                        "local": "2023-01-01T00:00:00-08:00"
+                    }
+                },
+                "coordinates": null,
+                "summary": {
+                    "min": 2.3333332538604736,
+                    "q02": 4.0678260707855225,
+                    "q25": 8.860507011413574,
+                    "median": 12.446557998657227,
+                    "q75": 19.465909481048584,
+                    "q98": 50.8872828674316,
+                    "max": 64.14286041259766,
+                    "avg": 16.566472319294423,
+                    "sd": 11.6825946251216
+                },
+                "coverage": {
+                    "expectedCount": 365,
+                    "expectedInterval": "8760:00:00",
+                    "observedCount": 340,
+                    "observedInterval": "8160:00:00",
+                    "percentComplete": 93.0,
+                    "percentCoverage": 93.0,
+                    "datetimeFrom": {
+                        "utc": "2022-01-01T08:00:00Z",
+                        "local": "2022-01-01T00:00:00-08:00"
+                    },
+                    "datetimeTo": {
+                        "utc": "2022-12-29T08:00:00Z",
+                        "local": "2022-12-29T00:00:00-08:00"
+                    }
+                }
+            },
+            {
+                "value": 14.0,
+                "parameter": {
+                    "id": 2,
+                    "name": "pm25",
+                    "units": "\u00b5g/m\u00b3",
+                    "displayName": null
+                },
+                "period": {
+                    "label": "1 year",
+                    "interval": "1year",
+                    "datetimeFrom": {
+                        "utc": "2023-01-01T08:00:00Z",
+                        "local": "2023-01-01T00:00:00-08:00"
+                    },
+                    "datetimeTo": {
+                        "utc": "2024-01-01T08:00:00Z",
+                        "local": "2024-01-01T00:00:00-08:00"
+                    }
+                },
+                "coordinates": null,
+                "summary": {
+                    "min": 2.388888888888889,
+                    "q02": 3.3333333333333335,
+                    "q25": 8.552083333333334,
+                    "median": 12.541666666666668,
+                    "q75": 17.02500009536743,
+                    "q98": 40.09999999999999,
+                    "max": 58.30434782608695,
+                    "avg": 14.123413273241791,
+                    "sd": 8.801855490299177
+                },
+                "coverage": {
+                    "expectedCount": 365,
+                    "expectedInterval": "8760:00:00",
+                    "observedCount": 316,
+                    "observedInterval": "7584:00:00",
+                    "percentComplete": 87.0,
+                    "percentCoverage": 87.0,
+                    "datetimeFrom": {
+                        "utc": "2023-01-03T08:00:00Z",
+                        "local": "2023-01-03T00:00:00-08:00"
+                    },
+                    "datetimeTo": {
+                        "utc": "2024-01-01T08:00:00Z",
+                        "local": "2024-01-01T00:00:00-08:00"
+                    }
+                }
+            },
+            {
+                "value": 11.0,
+                "parameter": {
+                    "id": 2,
+                    "name": "pm25",
+                    "units": "\u00b5g/m\u00b3",
+                    "displayName": null
+                },
+                "period": {
+                    "label": "1 year",
+                    "interval": "1year",
+                    "datetimeFrom": {
+                        "utc": "2024-01-01T08:00:00Z",
+                        "local": "2024-01-01T00:00:00-08:00"
+                    },
+                    "datetimeTo": {
+                        "utc": "2025-01-01T08:00:00Z",
+                        "local": "2025-01-01T00:00:00-08:00"
+                    }
+                },
+                "coordinates": null,
+                "summary": {
+                    "min": 0.6923076923076923,
+                    "q02": 1.6216666666666668,
+                    "q25": 7.043025362318841,
+                    "median": 10.0,
+                    "q75": 13.541666666666666,
+                    "q98": 26.219130434782603,
+                    "max": 33.09090909090909,
+                    "avg": 10.724708682106263,
+                    "sd": 5.544667890718071
+                },
+                "coverage": {
+                    "expectedCount": 366,
+                    "expectedInterval": "8784:00:00",
+                    "observedCount": 284,
+                    "observedInterval": "6816:00:00",
+                    "percentComplete": 78.0,
+                    "percentCoverage": 78.0,
+                    "datetimeFrom": {
+                        "utc": "2024-01-01T08:00:00Z",
+                        "local": "2024-01-01T00:00:00-08:00"
+                    },
+                    "datetimeTo": {
+                        "utc": "2024-10-17T07:00:00Z",
+                        "local": "2024-10-17T00:00:00-07:00"
+                    }
+                }
+            }
+        ],
+        "sensor_id": 1328938
+    },
+    {
+        "meta": {
+            "name": "openaq-api",
+            "website": "/",
+            "page": 1,
+            "limit": 10,
+            "found": 4
+        },
+        "results": [
+            {
+                "value": 22.0,
+                "parameter": {
+                    "id": 2,
+                    "name": "pm25",
+                    "units": "\u00b5g/m\u00b3",
+                    "displayName": null
+                },
+                "period": {
+                    "label": "1 year",
+                    "interval": "1year",
+                    "datetimeFrom": {
+                        "utc": "2021-01-01T08:00:00Z",
+                        "local": "2021-01-01T00:00:00-08:00"
+                    },
+                    "datetimeTo": {
+                        "utc": "2022-01-01T08:00:00Z",
+                        "local": "2022-01-01T00:00:00-08:00"
+                    }
+                },
+                "coordinates": null,
+                "summary": {
+                    "min": 3.0,
+                    "q02": 4.732499971389771,
+                    "q25": 10.758152173913043,
+                    "median": 17.70833396911621,
+                    "q75": 25.954545454545457,
+                    "q98": 73.84666666666656,
+                    "max": 84.125,
+                    "avg": 22.013007799660596,
+                    "sd": 16.169449086065953
+                },
+                "coverage": {
+                    "expectedCount": 365,
+                    "expectedInterval": "8760:00:00",
+                    "observedCount": 110,
+                    "observedInterval": "2640:00:00",
+                    "percentComplete": 30.0,
+                    "percentCoverage": 30.0,
+                    "datetimeFrom": {
+                        "utc": "2021-09-03T07:00:00Z",
+                        "local": "2021-09-03T00:00:00-07:00"
+                    },
+                    "datetimeTo": {
+                        "utc": "2022-01-01T08:00:00Z",
+                        "local": "2022-01-01T00:00:00-08:00"
+                    }
+                }
+            },
+            {
+                "value": 14.0,
+                "parameter": {
+                    "id": 2,
+                    "name": "pm25",
+                    "units": "\u00b5g/m\u00b3",
+                    "displayName": null
+                },
+                "period": {
+                    "label": "1 year",
+                    "interval": "1year",
+                    "datetimeFrom": {
+                        "utc": "2022-01-01T08:00:00Z",
+                        "local": "2022-01-01T00:00:00-08:00"
+                    },
+                    "datetimeTo": {
+                        "utc": "2023-01-01T08:00:00Z",
+                        "local": "2023-01-01T00:00:00-08:00"
+                    }
+                },
+                "coordinates": null,
+                "summary": {
+                    "min": 1.08695650100708,
+                    "q02": 3.3027451133728025,
+                    "q25": 7.339285850524902,
+                    "median": 11.010416507720947,
+                    "q75": 17.520833015441895,
+                    "q98": 40.652000656127925,
+                    "max": 46.739131927490234,
+                    "avg": 14.364609272111187,
+                    "sd": 9.97361662523221
+                },
+                "coverage": {
+                    "expectedCount": 365,
+                    "expectedInterval": "8760:00:00",
+                    "observedCount": 362,
+                    "observedInterval": "8688:00:00",
+                    "percentComplete": 99.0,
+                    "percentCoverage": 99.0,
+                    "datetimeFrom": {
+                        "utc": "2022-01-01T08:00:00Z",
+                        "local": "2022-01-01T00:00:00-08:00"
+                    },
+                    "datetimeTo": {
+                        "utc": "2023-01-01T08:00:00Z",
+                        "local": "2023-01-01T00:00:00-08:00"
+                    }
+                }
+            },
+            {
+                "value": 13.0,
+                "parameter": {
+                    "id": 2,
+                    "name": "pm25",
+                    "units": "\u00b5g/m\u00b3",
+                    "displayName": null
+                },
+                "period": {
+                    "label": "1 year",
+                    "interval": "1year",
+                    "datetimeFrom": {
+                        "utc": "2023-01-01T08:00:00Z",
+                        "local": "2023-01-01T00:00:00-08:00"
+                    },
+                    "datetimeTo": {
+                        "utc": "2024-01-01T08:00:00Z",
+                        "local": "2024-01-01T00:00:00-08:00"
+                    }
+                },
+                "coordinates": null,
+                "summary": {
+                    "min": 1.4444444444444444,
+                    "q02": 2.552717391304348,
+                    "q25": 6.71875,
+                    "median": 10.233695652173914,
+                    "q75": 15.510416666666666,
+                    "q98": 36.71358695652171,
+                    "max": 51.34782608695652,
+                    "avg": 12.67811579145236,
+                    "sd": 8.632323399944031
+                },
+                "coverage": {
+                    "expectedCount": 365,
+                    "expectedInterval": "8760:00:00",
+                    "observedCount": 316,
+                    "observedInterval": "7584:00:00",
+                    "percentComplete": 87.0,
+                    "percentCoverage": 87.0,
+                    "datetimeFrom": {
+                        "utc": "2023-01-01T08:00:00Z",
+                        "local": "2023-01-01T00:00:00-08:00"
+                    },
+                    "datetimeTo": {
+                        "utc": "2024-01-01T08:00:00Z",
+                        "local": "2024-01-01T00:00:00-08:00"
+                    }
+                }
+            },
+            {
+                "value": 12.0,
+                "parameter": {
+                    "id": 2,
+                    "name": "pm25",
+                    "units": "\u00b5g/m\u00b3",
+                    "displayName": null
+                },
+                "period": {
+                    "label": "1 year",
+                    "interval": "1year",
+                    "datetimeFrom": {
+                        "utc": "2024-01-01T08:00:00Z",
+                        "local": "2024-01-01T00:00:00-08:00"
+                    },
+                    "datetimeTo": {
+                        "utc": "2025-01-01T08:00:00Z",
+                        "local": "2025-01-01T00:00:00-08:00"
+                    }
+                },
+                "coordinates": null,
+                "summary": {
+                    "min": 0.8260869565217391,
+                    "q02": 2.949163879598662,
+                    "q25": 7.916666666666667,
+                    "median": 10.9375,
+                    "q75": 15.4375,
+                    "q98": 25.00347826086955,
+                    "max": 32.666666666666664,
+                    "avg": 11.781595862207663,
+                    "sd": 5.58118004430263
+                },
+                "coverage": {
+                    "expectedCount": 366,
+                    "expectedInterval": "8784:00:00",
+                    "observedCount": 290,
+                    "observedInterval": "6960:00:00",
+                    "percentComplete": 79.0,
+                    "percentCoverage": 79.0,
+                    "datetimeFrom": {
+                        "utc": "2024-01-01T08:00:00Z",
+                        "local": "2024-01-01T00:00:00-08:00"
+                    },
+                    "datetimeTo": {
+                        "utc": "2024-10-17T07:00:00Z",
+                        "local": "2024-10-17T00:00:00-07:00"
+                    }
+                }
+            }
+        ],
+        "sensor_id": 1349599
+    },
+    {
+        "meta": {
+            "name": "openaq-api",
+            "website": "/",
+            "page": 1,
+            "limit": 10,
+            "found": 2
+        },
+        "results": [
+            {
+                "value": 13.0,
+                "parameter": {
+                    "id": 2,
+                    "name": "pm25",
+                    "units": "\u00b5g/m\u00b3",
+                    "displayName": null
+                },
+                "period": {
+                    "label": "1 year",
+                    "interval": "1year",
+                    "datetimeFrom": {
+                        "utc": "2023-01-01T08:00:00Z",
+                        "local": "2023-01-01T00:00:00-08:00"
+                    },
+                    "datetimeTo": {
+                        "utc": "2024-01-01T08:00:00Z",
+                        "local": "2024-01-01T00:00:00-08:00"
+                    }
+                },
+                "coordinates": null,
+                "summary": {
+                    "min": 0.9565217391304348,
+                    "q02": 3.683409090042114,
+                    "q25": 7.926222826086956,
+                    "median": 11.00208330154419,
+                    "q75": 15.406521739130435,
+                    "q98": 34.92958333333332,
+                    "max": 58.912499999999994,
+                    "avg": 13.057632091533563,
+                    "sd": 7.998259535502786
+                },
+                "coverage": {
+                    "expectedCount": 365,
+                    "expectedInterval": "8760:00:00",
+                    "observedCount": 196,
+                    "observedInterval": "4704:00:00",
+                    "percentComplete": 54.0,
+                    "percentCoverage": 54.0,
+                    "datetimeFrom": {
+                        "utc": "2023-05-08T07:00:00Z",
+                        "local": "2023-05-08T00:00:00-07:00"
+                    },
+                    "datetimeTo": {
+                        "utc": "2024-01-01T08:00:00Z",
+                        "local": "2024-01-01T00:00:00-08:00"
+                    }
+                }
+            },
+            {
+                "value": 10.0,
+                "parameter": {
+                    "id": 2,
+                    "name": "pm25",
+                    "units": "\u00b5g/m\u00b3",
+                    "displayName": null
+                },
+                "period": {
+                    "label": "1 year",
+                    "interval": "1year",
+                    "datetimeFrom": {
+                        "utc": "2024-01-01T08:00:00Z",
+                        "local": "2024-01-01T00:00:00-08:00"
+                    },
+                    "datetimeTo": {
+                        "utc": "2025-01-01T08:00:00Z",
+                        "local": "2025-01-01T00:00:00-08:00"
+                    }
+                },
+                "coordinates": null,
+                "summary": {
+                    "min": -1.1523809523809523,
+                    "q02": 0.04983549783549786,
+                    "q25": 5.914583333333333,
+                    "median": 9.387500000000001,
+                    "q75": 13.649999999999999,
+                    "q98": 25.095066666666682,
+                    "max": 44.85217391304347,
+                    "avg": 10.13246970762904,
+                    "sd": 6.2775990683225755
+                },
+                "coverage": {
+                    "expectedCount": 366,
+                    "expectedInterval": "8784:00:00",
+                    "observedCount": 267,
+                    "observedInterval": "6408:00:00",
+                    "percentComplete": 73.0,
+                    "percentCoverage": 73.0,
+                    "datetimeFrom": {
+                        "utc": "2024-01-01T08:00:00Z",
+                        "local": "2024-01-01T00:00:00-08:00"
+                    },
+                    "datetimeTo": {
+                        "utc": "2024-10-17T07:00:00Z",
+                        "local": "2024-10-17T00:00:00-07:00"
+                    }
+                }
+            }
+        ],
+        "sensor_id": 5077547
+    },
+    {
+        "meta": {
+            "name": "openaq-api",
+            "website": "/",
+            "page": 1,
+            "limit": 10,
+            "found": 3
+        },
+        "results": [
+            {
+                "value": 12.0,
+                "parameter": {
+                    "id": 2,
+                    "name": "pm25",
+                    "units": "\u00b5g/m\u00b3",
+                    "displayName": null
+                },
+                "period": {
+                    "label": "1 year",
+                    "interval": "1year",
+                    "datetimeFrom": {
+                        "utc": "2022-01-01T08:00:00Z",
+                        "local": "2022-01-01T00:00:00-08:00"
+                    },
+                    "datetimeTo": {
+                        "utc": "2023-01-01T08:00:00Z",
+                        "local": "2023-01-01T00:00:00-08:00"
+                    }
+                },
+                "coordinates": null,
+                "summary": {
+                    "min": 12.300000190734863,
+                    "q02": 12.300000190734863,
+                    "q25": 12.300000190734863,
+                    "median": 12.300000190734863,
+                    "q75": 12.300000190734863,
+                    "q98": 12.300000190734863,
+                    "max": 12.300000190734863,
+                    "avg": 12.300000190734863,
+                    "sd": null
+                },
+                "coverage": {
+                    "expectedCount": 365,
+                    "expectedInterval": "8760:00:00",
+                    "observedCount": 1,
+                    "observedInterval": "24:00:00",
+                    "percentComplete": 0.0,
+                    "percentCoverage": 0.0,
+                    "datetimeFrom": {
+                        "utc": "2022-10-04T07:00:00Z",
+                        "local": "2022-10-04T00:00:00-07:00"
+                    },
+                    "datetimeTo": {
+                        "utc": "2022-10-05T07:00:00Z",
+                        "local": "2022-10-05T00:00:00-07:00"
+                    }
+                }
+            },
+            {
+                "value": 14.0,
+                "parameter": {
+                    "id": 2,
+                    "name": "pm25",
+                    "units": "\u00b5g/m\u00b3",
+                    "displayName": null
+                },
+                "period": {
+                    "label": "1 year",
+                    "interval": "1year",
+                    "datetimeFrom": {
+                        "utc": "2023-01-01T08:00:00Z",
+                        "local": "2023-01-01T00:00:00-08:00"
+                    },
+                    "datetimeTo": {
+                        "utc": "2024-01-01T08:00:00Z",
+                        "local": "2024-01-01T00:00:00-08:00"
+                    }
+                },
+                "coordinates": null,
+                "summary": {
+                    "min": 4.0249999999999995,
+                    "q02": 4.863500164667766,
+                    "q25": 8.9375,
+                    "median": 11.635416666666668,
+                    "q75": 17.078125,
+                    "q98": 40.253075098814236,
+                    "max": 46.59565217391304,
+                    "avg": 14.357363062976168,
+                    "sd": 8.449762773716953
+                },
+                "coverage": {
+                    "expectedCount": 365,
+                    "expectedInterval": "8760:00:00",
+                    "observedCount": 238,
+                    "observedInterval": "5712:00:00",
+                    "percentComplete": 65.0,
+                    "percentCoverage": 65.0,
+                    "datetimeFrom": {
+                        "utc": "2023-05-06T07:00:00Z",
+                        "local": "2023-05-06T00:00:00-07:00"
+                    },
+                    "datetimeTo": {
+                        "utc": "2024-01-01T08:00:00Z",
+                        "local": "2024-01-01T00:00:00-08:00"
+                    }
+                }
+            },
+            {
+                "value": 11.0,
+                "parameter": {
+                    "id": 2,
+                    "name": "pm25",
+                    "units": "\u00b5g/m\u00b3",
+                    "displayName": null
+                },
+                "period": {
+                    "label": "1 year",
+                    "interval": "1year",
+                    "datetimeFrom": {
+                        "utc": "2024-01-01T08:00:00Z",
+                        "local": "2024-01-01T00:00:00-08:00"
+                    },
+                    "datetimeTo": {
+                        "utc": "2025-01-01T08:00:00Z",
+                        "local": "2025-01-01T00:00:00-08:00"
+                    }
+                },
+                "coordinates": null,
+                "summary": {
+                    "min": 1.026086956521739,
+                    "q02": 2.6544565217391307,
+                    "q25": 7.317980072463769,
+                    "median": 9.92203557312253,
+                    "q75": 14.672509057971013,
+                    "q98": 23.325,
+                    "max": 28.356521739130436,
+                    "avg": 11.046383861597233,
+                    "sd": 5.432089924344228
+                },
+                "coverage": {
+                    "expectedCount": 366,
+                    "expectedInterval": "8784:00:00",
+                    "observedCount": 286,
+                    "observedInterval": "6864:00:00",
+                    "percentComplete": 78.0,
+                    "percentCoverage": 78.0,
+                    "datetimeFrom": {
+                        "utc": "2024-01-01T08:00:00Z",
+                        "local": "2024-01-01T00:00:00-08:00"
+                    },
+                    "datetimeTo": {
+                        "utc": "2024-10-17T07:00:00Z",
+                        "local": "2024-10-17T00:00:00-07:00"
+                    }
+                }
+            }
+        ],
+        "sensor_id": 5077593
+    },
+    {
+        "meta": {
+            "name": "openaq-api",
+            "website": "/",
+            "page": 1,
+            "limit": 10,
+            "found": 1
+        },
+        "results": [
+            {
+                "value": 15.0,
+                "parameter": {
+                    "id": 2,
+                    "name": "pm25",
+                    "units": "\u00b5g/m\u00b3",
+                    "displayName": null
+                },
+                "period": {
+                    "label": "1 year",
+                    "interval": "1year",
+                    "datetimeFrom": {
+                        "utc": "2024-01-01T08:00:00Z",
+                        "local": "2024-01-01T00:00:00-08:00"
+                    },
+                    "datetimeTo": {
+                        "utc": "2025-01-01T08:00:00Z",
+                        "local": "2025-01-01T00:00:00-08:00"
+                    }
+                },
+                "coordinates": null,
+                "summary": {
+                    "min": 2.1943218549174968,
+                    "q02": 2.8372556578356125,
+                    "q25": 10.306809668523677,
+                    "median": 15.530034770568214,
+                    "q75": 20.02016998767251,
+                    "q98": 28.467567333733584,
+                    "max": 31.44446302784814,
+                    "avg": 15.080624980600435,
+                    "sd": 6.666026739786397
+                },
+                "coverage": {
+                    "expectedCount": 366,
+                    "expectedInterval": "8784:00:00",
+                    "observedCount": 63,
+                    "observedInterval": "1512:00:00",
+                    "percentComplete": 17.0,
+                    "percentCoverage": 17.0,
+                    "datetimeFrom": {
+                        "utc": "2024-08-15T07:00:00Z",
+                        "local": "2024-08-15T00:00:00-07:00"
+                    },
+                    "datetimeTo": {
+                        "utc": "2024-10-17T07:00:00Z",
+                        "local": "2024-10-17T00:00:00-07:00"
+                    }
+                }
+            }
+        ],
+        "sensor_id": 10280894
+    }
+]
