@@ -1,0 +1,343 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 230814,
+                "name": "Bakersfield - Golden",
+                "locality": "Bakersfield",
+                "timezone": "America/Los_Angeles",
+                "country": "United States",
+                "provider": "AirNow",
+                "isMobile": false,
+                "isMonitor": true,
+                "instruments": [
+                    "Government Monitor"
+                ],
+                "sensors": [
+                    "pm10 \u00b5g/m\u00b3",
+                    "pm25 \u00b5g/m\u00b3"
+                ],
+                "datetimeFirst": "2021-08-03T19:00:00Z",
+                "datetimeLast": "2024-10-11T12:00:00Z"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -119.014702,
+                    35.3853
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 269725,
+                "name": "Bakersfield-Westwind",
+                "locality": "KERN",
+                "timezone": "America/Los_Angeles",
+                "country": "United States",
+                "provider": "AirNow",
+                "isMobile": false,
+                "isMonitor": true,
+                "instruments": [
+                    "Government Monitor"
+                ],
+                "sensors": [
+                    "no2 ppm"
+                ],
+                "datetimeFirst": "2021-10-11T18:00:00Z",
+                "datetimeLast": "2024-10-11T12:00:00Z"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -119.044028,
+                    35.377
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 28777,
+                "name": "Bakersfield - Califo",
+                "locality": "Bakersfield",
+                "timezone": "America/Los_Angeles",
+                "country": "United States",
+                "provider": "AirNow",
+                "isMobile": false,
+                "isMonitor": true,
+                "instruments": [
+                    "Government Monitor"
+                ],
+                "sensors": [
+                    "no ppm",
+                    "no2 ppm",
+                    "nox ppm",
+                    "o3 ppm",
+                    "pm25 \u00b5g/m\u00b3"
+                ],
+                "datetimeFirst": "2023-05-09T03:00:00Z",
+                "datetimeLast": "2024-10-11T08:00:00Z"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -119.06261300000001,
+                    35.356615
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 8473,
+                "name": "Bakersfield-Muni",
+                "locality": "Bakersfield",
+                "timezone": "America/Los_Angeles",
+                "country": "United States",
+                "provider": "AirNow",
+                "isMobile": false,
+                "isMonitor": true,
+                "instruments": [
+                    "Government Monitor"
+                ],
+                "sensors": [
+                    "co ppm",
+                    "no ppm",
+                    "no2 ppm",
+                    "nox ppm",
+                    "o3 ppm"
+                ],
+                "datetimeFirst": "2016-08-05T19:00:00Z",
+                "datetimeLast": "2024-10-11T12:00:00Z"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -119.0,
+                    35.3313
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 3019000,
+                "name": "Visalia (St.Johns River)",
+                "locality": null,
+                "timezone": "America/Los_Angeles",
+                "country": "United States",
+                "provider": "AirGradient",
+                "isMobile": false,
+                "isMonitor": false,
+                "instruments": [
+                    "AirGradient Sensor"
+                ],
+                "sensors": [
+                    "pm1 \u00b5g/m\u00b3",
+                    "pm10 \u00b5g/m\u00b3",
+                    "pm25 \u00b5g/m\u00b3",
+                    "relativehumidity %",
+                    "temperature c",
+                    "um003 particles/cm\u00b3"
+                ],
+                "datetimeFirst": "2024-08-15T18:00:00Z",
+                "datetimeLast": "2024-10-11T14:00:00Z"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -119.285869,
+                    36.355108
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 895,
+                "name": "Fresno - Garland",
+                "locality": "FRESNO",
+                "timezone": "America/Los_Angeles",
+                "country": "United States",
+                "provider": "AirNow",
+                "isMobile": false,
+                "isMonitor": true,
+                "instruments": [
+                    "Government Monitor"
+                ],
+                "sensors": [
+                    "co ppm",
+                    "no ppm",
+                    "no2 ppm",
+                    "nox ppm",
+                    "o3 ppm",
+                    "pm10 \u00b5g/m\u00b3",
+                    "pm25 \u00b5g/m\u00b3",
+                    "so2 ppm"
+                ],
+                "datetimeFirst": "2016-03-06T20:00:00Z",
+                "datetimeLast": "2024-10-11T08:00:00Z"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -119.77321000000003,
+                    36.78538
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 921008,
+                "name": "Fresno-Pacific",
+                "locality": "Fresno",
+                "timezone": "America/Los_Angeles",
+                "country": "United States",
+                "provider": "AirNow",
+                "isMobile": false,
+                "isMonitor": true,
+                "instruments": [
+                    "Government Monitor"
+                ],
+                "sensors": [
+                    "pm25 \u00b5g/m\u00b3"
+                ],
+                "datetimeFirst": "2022-10-04T18:00:00Z",
+                "datetimeLast": "2024-10-11T12:00:00Z"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -119.73249,
+                    36.72622
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 234614,
+                "name": "Fresno-Foundry Park",
+                "locality": "Fresno",
+                "timezone": "America/Los_Angeles",
+                "country": "United States",
+                "provider": "AirNow",
+                "isMobile": false,
+                "isMonitor": true,
+                "instruments": [
+                    "Government Monitor"
+                ],
+                "sensors": [
+                    "no2 ppm",
+                    "pm25 \u00b5g/m\u00b3"
+                ],
+                "datetimeFirst": "2021-09-03T19:00:00Z",
+                "datetimeLast": "2024-10-11T12:00:00Z"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -119.77743,
+                    36.71088
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 792,
+                "name": "Fresno - Drummond St",
+                "locality": "Fresno",
+                "timezone": "America/Los_Angeles",
+                "country": "United States",
+                "provider": "AirNow",
+                "isMobile": false,
+                "isMonitor": true,
+                "instruments": [
+                    "Government Monitor"
+                ],
+                "sensors": [
+                    "no ppm",
+                    "no2 ppm",
+                    "nox ppm",
+                    "o3 ppm",
+                    "pm10 \u00b5g/m\u00b3"
+                ],
+                "datetimeFirst": "2016-03-10T08:00:00Z",
+                "datetimeLast": "2024-10-11T12:00:00Z"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -119.7414,
+                    36.7056
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 8457,
+                "name": "Madera-City",
+                "locality": "Madera",
+                "timezone": "America/Los_Angeles",
+                "country": "United States",
+                "provider": "AirNow",
+                "isMobile": false,
+                "isMonitor": true,
+                "instruments": [
+                    "Government Monitor"
+                ],
+                "sensors": [
+                    "o3 ppm",
+                    "pm10 \u00b5g/m\u00b3",
+                    "pm25 \u00b5g/m\u00b3"
+                ],
+                "datetimeFirst": "2016-08-05T19:00:00Z",
+                "datetimeLast": "2024-10-11T12:00:00Z"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -120.03410000000001,
+                    36.9533
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 663,
+                "name": "Hanford - S. Irwin S",
+                "locality": "Hanford-Corcoran",
+                "timezone": "America/Los_Angeles",
+                "country": "United States",
+                "provider": "AirNow",
+                "isMobile": false,
+                "isMonitor": true,
+                "instruments": [
+                    "Government Monitor"
+                ],
+                "sensors": [
+                    "o3 ppm",
+                    "pm10 \u00b5g/m\u00b3",
+                    "pm25 \u00b5g/m\u00b3"
+                ],
+                "datetimeFirst": "2016-03-10T08:00:00Z",
+                "datetimeLast": "2024-10-11T12:00:00Z"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -119.6436,
+                    36.3144
+                ]
+            }
+        }
+    ]
+}
