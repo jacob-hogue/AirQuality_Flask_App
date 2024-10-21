@@ -11,12 +11,12 @@ Werkzeug==3.0.4
 
 ## Set up and create flask environment
 ### Bash
-mkdir AirQuality_FlaskApp
-cd AirQuality_FlaskApp
-python -m venv flaskvenv
-flaskvenv\Scripts\activate
-pip install flask
-type nul>app.py (create a Python file for the Flask app, e.g., app.py:)
+mkdir AirQuality_FlaskApp  
+cd AirQuality_FlaskApp  
+python -m venv flaskvenv  
+flaskvenv\Scripts\activate  
+pip install flask  
+type nul>app.py (create a Python file for the Flask app, e.g., app.py:)  
 
 ## Edit app.py and add the following folders/directory:
 1. create a templates folder for app.html
