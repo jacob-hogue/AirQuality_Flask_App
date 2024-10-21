@@ -53,6 +53,8 @@ Open AQ - Open Air Quality Data
 
 https://openaq.org/
 
+[Link to Demo Video Querying Sensor Points and City Extents by Sensor_id](https://www.loom.com/share/17af9fb154c54e999455c59acf697670?sid=f34a34cf-d09c-4ff4-808b-0ab698664224)
+
 ![image](https://github.com/user-attachments/assets/7fe365b5-b2d1-4202-b8f3-4f96e5c14778)
 ![image](https://github.com/user-attachments/assets/ebc54bb8-d443-443c-86a6-63c21934ffa5)
 ![image](https://github.com/user-attachments/assets/dae85189-6623-4343-924d-2b8bfc0f1648)
