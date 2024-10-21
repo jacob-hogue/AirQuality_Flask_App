@@ -1,6 +1,16 @@
 # AirQuality_Flask_App
 Inspiration and reference taken from: Parinda Pannoon
 https://github.com/parindapannoon/PostGIS_FetchdataAPI
+
+
+**[Demo Video for Querying endpoints by sensor_id and city boundary](https://www.loom.com/share/17af9fb154c54e999455c59acf697670?sid=3716a19d-6ab2-4a7c-8522-11dd291c47c3)**
+
+## Data Processing
+The Data Processing Directory contains 3 scripts
+1. APIQuery.py - Script that gets the location and sensor data from the top 5 most polluted cities in the U.S. in terms of PM 2.5 metrics: Bakersfield, Visalia, Fresno, Madera, and Hanford, CA. Converts the OpenAQ json response to usable geodataframe and geojson data using geopandas.
+2. SensorData_to_Postgres.py - Script that loads the sensor and location data into a postgis/postgres database using sqlalchemy.
+3. HistoricalDataQuery.py - Script that grabs the last 10 years of data for each sensor and dumps the data to a CSV for use in the Flourish chart/table.
+
 ## Requirements
 ```
 Flask==3.0.3   
@@ -52,8 +62,6 @@ Define a route that responds to GET requests when a URL with a specific sensor_i
 Open AQ - Open Air Quality Data
 
 https://openaq.org/
-
-[Demo Video for Querying endpoints by sensor_id and city boundary](https://www.loom.com/share/17af9fb154c54e999455c59acf697670?sid=3716a19d-6ab2-4a7c-8522-11dd291c47c3)
 
 ![image](https://github.com/user-attachments/assets/7fe365b5-b2d1-4202-b8f3-4f96e5c14778)
 ![image](https://github.com/user-attachments/assets/ebc54bb8-d443-443c-86a6-63c21934ffa5)
