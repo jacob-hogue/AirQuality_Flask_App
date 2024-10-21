@@ -1,4 +1,4 @@
-# AirQuality_Flask_App
+# Air Quality Flask GET API/App
 Inspiration and reference taken from: Parinda Pannoon
 https://github.com/parindapannoon/PostGIS_FetchdataAPI
 
