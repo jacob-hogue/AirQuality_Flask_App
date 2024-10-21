@@ -1,13 +1,13 @@
 # AirQuality_Flask_App
 
 ## Requirements
-Flask==3.0.3   
-Flask-SQLAlchemy==3.1.1
-GeoAlchemy2==0.15.2
-Jinja2==3.1.4
-psycopg2==2.9.9
-SQLAlchemy==2.0.35
-Werkzeug==3.0.4
+Flask==3.0.3     
+Flask-SQLAlchemy==3.1.1  
+GeoAlchemy2==0.15.2  
+Jinja2==3.1.4  
+psycopg2==2.9.9  
+SQLAlchemy==2.0.35  
+Werkzeug==3.0.4  
 
 ## Set up and create flask environment
 ### Bash
